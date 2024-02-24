@@ -1,0 +1,6004 @@
+{
+  "data": [
+    {
+      "code": 1235,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4622,
+      "state": "disabled",
+      "ProjectId": 16,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 1112,
+      "state": "disabled",
+      "ProjectId": 13,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 2075,
+      "state": "disabled",
+      "ProjectId": 16,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 2284,
+      "state": "enabled",
+      "ProjectId": 7,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 7432,
+      "state": "disabled",
+      "ProjectId": 15,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 9390,
+      "state": "disabled",
+      "ProjectId": 9,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 9971,
+      "state": "enabled",
+      "ProjectId": 10,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 4627,
+      "state": "disabled",
+      "ProjectId": 3,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 2840,
+      "state": "disabled",
+      "ProjectId": 9,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 4327,
+      "state": "enabled",
+      "ProjectId": 16,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 1280,
+      "state": "enabled",
+      "ProjectId": 17,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 8292,
+      "state": "enabled",
+      "ProjectId": 18,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 6692,
+      "state": "disabled",
+      "ProjectId": 20,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 8794,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 9016,
+      "state": "disabled",
+      "ProjectId": 14,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 7325,
+      "state": "enabled",
+      "ProjectId": 3,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 1743,
+      "state": "enabled",
+      "ProjectId": 17,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 8195,
+      "state": "disabled",
+      "ProjectId": 19,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 7990,
+      "state": "enabled",
+      "ProjectId": 15,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8475,
+      "state": "disabled",
+      "ProjectId": 17,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5005,
+      "state": "enabled",
+      "ProjectId": 2,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 4374,
+      "state": "enabled",
+      "ProjectId": 11,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8460,
+      "state": "disabled",
+      "ProjectId": 19,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 8883,
+      "state": "enabled",
+      "ProjectId": 18,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 5415,
+      "state": "disabled",
+      "ProjectId": 20,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8198,
+      "state": "enabled",
+      "ProjectId": 4,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 7624,
+      "state": "disabled",
+      "ProjectId": 13,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 6464,
+      "state": "disabled",
+      "ProjectId": 3,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 7601,
+      "state": "disabled",
+      "ProjectId": 6,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 5978,
+      "state": "enabled",
+      "ProjectId": 10,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 2449,
+      "state": "disabled",
+      "ProjectId": 20,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 4960,
+      "state": "disabled",
+      "ProjectId": 17,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 2040,
+      "state": "disabled",
+      "ProjectId": 16,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5406,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5098,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 2690,
+      "state": "disabled",
+      "ProjectId": 8,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 1274,
+      "state": "enabled",
+      "ProjectId": 4,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8323,
+      "state": "enabled",
+      "ProjectId": 1,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 2427,
+      "state": "enabled",
+      "ProjectId": 7,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5287,
+      "state": "disabled",
+      "ProjectId": 1,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 1999,
+      "state": "enabled",
+      "ProjectId": 4,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 6561,
+      "state": "enabled",
+      "ProjectId": 13,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 7917,
+      "state": "disabled",
+      "ProjectId": 14,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 7278,
+      "state": "disabled",
+      "ProjectId": 16,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 5948,
+      "state": "enabled",
+      "ProjectId": 16,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6270,
+      "state": "disabled",
+      "ProjectId": 17,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 5698,
+      "state": "disabled",
+      "ProjectId": 6,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 3892,
+      "state": "enabled",
+      "ProjectId": 7,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 9823,
+      "state": "disabled",
+      "ProjectId": 16,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 8554,
+      "state": "disabled",
+      "ProjectId": 9,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 5829,
+      "state": "disabled",
+      "ProjectId": 17,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 3911,
+      "state": "enabled",
+      "ProjectId": 7,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 9350,
+      "state": "disabled",
+      "ProjectId": 20,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 2250,
+      "state": "enabled",
+      "ProjectId": 10,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 5333,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 1685,
+      "state": "disabled",
+      "ProjectId": 11,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3525,
+      "state": "disabled",
+      "ProjectId": 14,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8199,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8777,
+      "state": "enabled",
+      "ProjectId": 16,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 4721,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8229,
+      "state": "enabled",
+      "ProjectId": 19,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8414,
+      "state": "disabled",
+      "ProjectId": 9,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 2439,
+      "state": "enabled",
+      "ProjectId": 16,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 7326,
+      "state": "enabled",
+      "ProjectId": 7,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 2088,
+      "state": "enabled",
+      "ProjectId": 1,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8293,
+      "state": "enabled",
+      "ProjectId": 13,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 1923,
+      "state": "disabled",
+      "ProjectId": 12,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 4950,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5714,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 5003,
+      "state": "disabled",
+      "ProjectId": 16,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 1446,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 7452,
+      "state": "disabled",
+      "ProjectId": 6,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 1995,
+      "state": "disabled",
+      "ProjectId": 11,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 2173,
+      "state": "enabled",
+      "ProjectId": 18,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 5917,
+      "state": "enabled",
+      "ProjectId": 10,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 5488,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 1137,
+      "state": "enabled",
+      "ProjectId": 10,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 7190,
+      "state": "disabled",
+      "ProjectId": 6,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 5698,
+      "state": "enabled",
+      "ProjectId": 20,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 3227,
+      "state": "disabled",
+      "ProjectId": 5,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 4375,
+      "state": "enabled",
+      "ProjectId": 9,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6916,
+      "state": "disabled",
+      "ProjectId": 15,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 7602,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 8473,
+      "state": "disabled",
+      "ProjectId": 3,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 2537,
+      "state": "disabled",
+      "ProjectId": 13,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 7130,
+      "state": "disabled",
+      "ProjectId": 18,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 4675,
+      "state": "disabled",
+      "ProjectId": 18,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 5589,
+      "state": "disabled",
+      "ProjectId": 2,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6656,
+      "state": "disabled",
+      "ProjectId": 5,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 6681,
+      "state": "enabled",
+      "ProjectId": 4,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 7128,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 1580,
+      "state": "enabled",
+      "ProjectId": 20,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 9563,
+      "state": "enabled",
+      "ProjectId": 19,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 4309,
+      "state": "disabled",
+      "ProjectId": 18,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 7517,
+      "state": "enabled",
+      "ProjectId": 10,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 2261,
+      "state": "enabled",
+      "ProjectId": 4,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6221,
+      "state": "enabled",
+      "ProjectId": 4,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 9456,
+      "state": "disabled",
+      "ProjectId": 6,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8496,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 4192,
+      "state": "enabled",
+      "ProjectId": 20,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 3811,
+      "state": "enabled",
+      "ProjectId": 16,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 2521,
+      "state": "disabled",
+      "ProjectId": 12,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 9220,
+      "state": "enabled",
+      "ProjectId": 2,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 2772,
+      "state": "disabled",
+      "ProjectId": 14,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 4154,
+      "state": "disabled",
+      "ProjectId": 1,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 7477,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 1013,
+      "state": "disabled",
+      "ProjectId": 16,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8042,
+      "state": "disabled",
+      "ProjectId": 18,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 9705,
+      "state": "enabled",
+      "ProjectId": 5,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5291,
+      "state": "enabled",
+      "ProjectId": 11,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4209,
+      "state": "enabled",
+      "ProjectId": 5,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 7969,
+      "state": "enabled",
+      "ProjectId": 19,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 7605,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 8192,
+      "state": "enabled",
+      "ProjectId": 19,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3782,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 2856,
+      "state": "enabled",
+      "ProjectId": 11,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 3601,
+      "state": "disabled",
+      "ProjectId": 11,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3326,
+      "state": "disabled",
+      "ProjectId": 11,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 5909,
+      "state": "disabled",
+      "ProjectId": 17,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 9771,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8514,
+      "state": "disabled",
+      "ProjectId": 17,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 6980,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 6177,
+      "state": "disabled",
+      "ProjectId": 5,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 1871,
+      "state": "disabled",
+      "ProjectId": 13,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 8491,
+      "state": "disabled",
+      "ProjectId": 15,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 4183,
+      "state": "enabled",
+      "ProjectId": 4,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 1776,
+      "state": "enabled",
+      "ProjectId": 8,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 6474,
+      "state": "disabled",
+      "ProjectId": 8,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 6149,
+      "state": "disabled",
+      "ProjectId": 8,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 9698,
+      "state": "enabled",
+      "ProjectId": 17,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 9609,
+      "state": "disabled",
+      "ProjectId": 16,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 2088,
+      "state": "enabled",
+      "ProjectId": 10,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3533,
+      "state": "disabled",
+      "ProjectId": 18,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8919,
+      "state": "enabled",
+      "ProjectId": 16,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3067,
+      "state": "enabled",
+      "ProjectId": 20,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 9787,
+      "state": "disabled",
+      "ProjectId": 1,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 4143,
+      "state": "disabled",
+      "ProjectId": 20,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 9581,
+      "state": "disabled",
+      "ProjectId": 8,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 1476,
+      "state": "disabled",
+      "ProjectId": 9,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5812,
+      "state": "disabled",
+      "ProjectId": 12,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8777,
+      "state": "enabled",
+      "ProjectId": 1,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 8651,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4734,
+      "state": "enabled",
+      "ProjectId": 7,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 3703,
+      "state": "enabled",
+      "ProjectId": 11,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 3569,
+      "state": "disabled",
+      "ProjectId": 12,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 7744,
+      "state": "disabled",
+      "ProjectId": 6,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 5157,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 9695,
+      "state": "disabled",
+      "ProjectId": 5,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 1820,
+      "state": "enabled",
+      "ProjectId": 9,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 1166,
+      "state": "enabled",
+      "ProjectId": 11,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 2188,
+      "state": "enabled",
+      "ProjectId": 8,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 1164,
+      "state": "disabled",
+      "ProjectId": 3,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 9529,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 5627,
+      "state": "enabled",
+      "ProjectId": 1,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 7781,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 5529,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 3702,
+      "state": "enabled",
+      "ProjectId": 18,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8421,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8805,
+      "state": "enabled",
+      "ProjectId": 20,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 5178,
+      "state": "disabled",
+      "ProjectId": 6,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8512,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 3972,
+      "state": "disabled",
+      "ProjectId": 19,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 2440,
+      "state": "enabled",
+      "ProjectId": 4,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 3170,
+      "state": "enabled",
+      "ProjectId": 3,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 6497,
+      "state": "disabled",
+      "ProjectId": 8,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 9008,
+      "state": "disabled",
+      "ProjectId": 16,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 9746,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6004,
+      "state": "disabled",
+      "ProjectId": 3,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 8239,
+      "state": "enabled",
+      "ProjectId": 15,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3833,
+      "state": "enabled",
+      "ProjectId": 19,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6467,
+      "state": "enabled",
+      "ProjectId": 1,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 9966,
+      "state": "enabled",
+      "ProjectId": 18,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 9952,
+      "state": "enabled",
+      "ProjectId": 18,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 2840,
+      "state": "enabled",
+      "ProjectId": 19,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5321,
+      "state": "enabled",
+      "ProjectId": 7,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 9136,
+      "state": "enabled",
+      "ProjectId": 2,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 3982,
+      "state": "enabled",
+      "ProjectId": 17,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6720,
+      "state": "enabled",
+      "ProjectId": 5,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 4669,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 9540,
+      "state": "enabled",
+      "ProjectId": 4,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 7974,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 9962,
+      "state": "enabled",
+      "ProjectId": 10,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 9168,
+      "state": "disabled",
+      "ProjectId": 8,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5918,
+      "state": "enabled",
+      "ProjectId": 18,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 8730,
+      "state": "disabled",
+      "ProjectId": 9,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 9093,
+      "state": "disabled",
+      "ProjectId": 9,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 5012,
+      "state": "disabled",
+      "ProjectId": 18,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 3584,
+      "state": "enabled",
+      "ProjectId": 13,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 9584,
+      "state": "disabled",
+      "ProjectId": 8,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 1184,
+      "state": "enabled",
+      "ProjectId": 6,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 5398,
+      "state": "enabled",
+      "ProjectId": 5,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 3210,
+      "state": "enabled",
+      "ProjectId": 17,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 3232,
+      "state": "enabled",
+      "ProjectId": 10,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 3677,
+      "state": "enabled",
+      "ProjectId": 17,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 5909,
+      "state": "disabled",
+      "ProjectId": 14,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 1929,
+      "state": "enabled",
+      "ProjectId": 18,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6968,
+      "state": "enabled",
+      "ProjectId": 6,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 5770,
+      "state": "disabled",
+      "ProjectId": 6,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 9675,
+      "state": "enabled",
+      "ProjectId": 15,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 4284,
+      "state": "enabled",
+      "ProjectId": 7,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3273,
+      "state": "disabled",
+      "ProjectId": 15,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 6871,
+      "state": "enabled",
+      "ProjectId": 7,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 6622,
+      "state": "enabled",
+      "ProjectId": 6,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 6381,
+      "state": "enabled",
+      "ProjectId": 8,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 9129,
+      "state": "enabled",
+      "ProjectId": 16,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 1507,
+      "state": "enabled",
+      "ProjectId": 16,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 9166,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8952,
+      "state": "disabled",
+      "ProjectId": 1,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 1649,
+      "state": "enabled",
+      "ProjectId": 19,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 2140,
+      "state": "enabled",
+      "ProjectId": 9,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 1978,
+      "state": "enabled",
+      "ProjectId": 17,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 5595,
+      "state": "disabled",
+      "ProjectId": 18,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 5462,
+      "state": "disabled",
+      "ProjectId": 9,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 1636,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 9231,
+      "state": "enabled",
+      "ProjectId": 5,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 4923,
+      "state": "enabled",
+      "ProjectId": 18,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 8543,
+      "state": "enabled",
+      "ProjectId": 7,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5774,
+      "state": "disabled",
+      "ProjectId": 2,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 7616,
+      "state": "enabled",
+      "ProjectId": 6,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6484,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 7072,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 5523,
+      "state": "enabled",
+      "ProjectId": 6,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8834,
+      "state": "disabled",
+      "ProjectId": 20,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 6410,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 7887,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 7176,
+      "state": "enabled",
+      "ProjectId": 13,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 9738,
+      "state": "disabled",
+      "ProjectId": 17,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 9912,
+      "state": "disabled",
+      "ProjectId": 2,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3572,
+      "state": "enabled",
+      "ProjectId": 4,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4957,
+      "state": "disabled",
+      "ProjectId": 14,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8516,
+      "state": "disabled",
+      "ProjectId": 5,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 6953,
+      "state": "enabled",
+      "ProjectId": 8,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6334,
+      "state": "enabled",
+      "ProjectId": 19,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3256,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 3516,
+      "state": "enabled",
+      "ProjectId": 3,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 2999,
+      "state": "enabled",
+      "ProjectId": 8,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 1590,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 1561,
+      "state": "enabled",
+      "ProjectId": 11,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 7091,
+      "state": "enabled",
+      "ProjectId": 16,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3440,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 4020,
+      "state": "enabled",
+      "ProjectId": 3,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 9976,
+      "state": "disabled",
+      "ProjectId": 1,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 2917,
+      "state": "enabled",
+      "ProjectId": 15,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 9969,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 7792,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 9219,
+      "state": "enabled",
+      "ProjectId": 7,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 4391,
+      "state": "disabled",
+      "ProjectId": 3,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 1867,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 1864,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8215,
+      "state": "disabled",
+      "ProjectId": 19,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 3789,
+      "state": "disabled",
+      "ProjectId": 18,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 6993,
+      "state": "disabled",
+      "ProjectId": 18,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 9739,
+      "state": "disabled",
+      "ProjectId": 2,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 5290,
+      "state": "disabled",
+      "ProjectId": 3,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 1868,
+      "state": "disabled",
+      "ProjectId": 5,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 3452,
+      "state": "enabled",
+      "ProjectId": 9,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 2166,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 9988,
+      "state": "enabled",
+      "ProjectId": 20,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 3116,
+      "state": "disabled",
+      "ProjectId": 12,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4578,
+      "state": "disabled",
+      "ProjectId": 17,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 1722,
+      "state": "enabled",
+      "ProjectId": 11,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 3397,
+      "state": "disabled",
+      "ProjectId": 18,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 4779,
+      "state": "disabled",
+      "ProjectId": 5,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6931,
+      "state": "enabled",
+      "ProjectId": 3,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 1886,
+      "state": "disabled",
+      "ProjectId": 18,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 7849,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 1645,
+      "state": "enabled",
+      "ProjectId": 20,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 7247,
+      "state": "enabled",
+      "ProjectId": 19,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6272,
+      "state": "enabled",
+      "ProjectId": 15,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 4396,
+      "state": "enabled",
+      "ProjectId": 1,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 7453,
+      "state": "disabled",
+      "ProjectId": 11,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 6608,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8367,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 1503,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 5967,
+      "state": "disabled",
+      "ProjectId": 2,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 5066,
+      "state": "disabled",
+      "ProjectId": 13,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 4289,
+      "state": "disabled",
+      "ProjectId": 8,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 7406,
+      "state": "enabled",
+      "ProjectId": 18,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 7554,
+      "state": "disabled",
+      "ProjectId": 12,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5017,
+      "state": "disabled",
+      "ProjectId": 14,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 2605,
+      "state": "disabled",
+      "ProjectId": 14,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 3881,
+      "state": "enabled",
+      "ProjectId": 6,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 1681,
+      "state": "disabled",
+      "ProjectId": 9,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 8703,
+      "state": "enabled",
+      "ProjectId": 16,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 6908,
+      "state": "enabled",
+      "ProjectId": 18,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 6237,
+      "state": "disabled",
+      "ProjectId": 5,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5165,
+      "state": "disabled",
+      "ProjectId": 9,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 8739,
+      "state": "disabled",
+      "ProjectId": 19,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 7678,
+      "state": "disabled",
+      "ProjectId": 3,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 5685,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 3667,
+      "state": "disabled",
+      "ProjectId": 5,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5433,
+      "state": "enabled",
+      "ProjectId": 6,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 8658,
+      "state": "disabled",
+      "ProjectId": 15,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 3875,
+      "state": "disabled",
+      "ProjectId": 19,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 2741,
+      "state": "enabled",
+      "ProjectId": 1,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6313,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6068,
+      "state": "enabled",
+      "ProjectId": 6,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 9977,
+      "state": "disabled",
+      "ProjectId": 11,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5809,
+      "state": "enabled",
+      "ProjectId": 5,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 8183,
+      "state": "enabled",
+      "ProjectId": 20,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 9893,
+      "state": "disabled",
+      "ProjectId": 19,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 1898,
+      "state": "enabled",
+      "ProjectId": 17,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 7031,
+      "state": "disabled",
+      "ProjectId": 18,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 8251,
+      "state": "enabled",
+      "ProjectId": 10,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8037,
+      "state": "disabled",
+      "ProjectId": 5,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 3086,
+      "state": "enabled",
+      "ProjectId": 17,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8530,
+      "state": "disabled",
+      "ProjectId": 2,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 2242,
+      "state": "enabled",
+      "ProjectId": 15,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 1318,
+      "state": "disabled",
+      "ProjectId": 6,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 2045,
+      "state": "disabled",
+      "ProjectId": 13,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 4030,
+      "state": "enabled",
+      "ProjectId": 20,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 1309,
+      "state": "enabled",
+      "ProjectId": 7,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 3885,
+      "state": "enabled",
+      "ProjectId": 10,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 6532,
+      "state": "disabled",
+      "ProjectId": 20,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3567,
+      "state": "enabled",
+      "ProjectId": 18,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3586,
+      "state": "enabled",
+      "ProjectId": 18,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 4480,
+      "state": "disabled",
+      "ProjectId": 2,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 2019,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 9222,
+      "state": "disabled",
+      "ProjectId": 12,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 7137,
+      "state": "disabled",
+      "ProjectId": 12,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 4857,
+      "state": "disabled",
+      "ProjectId": 5,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 3292,
+      "state": "enabled",
+      "ProjectId": 10,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 4861,
+      "state": "enabled",
+      "ProjectId": 13,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 3458,
+      "state": "disabled",
+      "ProjectId": 15,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 5085,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 6486,
+      "state": "disabled",
+      "ProjectId": 11,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8057,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 1192,
+      "state": "disabled",
+      "ProjectId": 1,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6923,
+      "state": "disabled",
+      "ProjectId": 2,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 7133,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 3646,
+      "state": "enabled",
+      "ProjectId": 8,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 2127,
+      "state": "disabled",
+      "ProjectId": 5,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 9617,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 1855,
+      "state": "disabled",
+      "ProjectId": 12,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 9567,
+      "state": "enabled",
+      "ProjectId": 19,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 3488,
+      "state": "disabled",
+      "ProjectId": 6,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 8519,
+      "state": "enabled",
+      "ProjectId": 16,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3266,
+      "state": "enabled",
+      "ProjectId": 9,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 2371,
+      "state": "disabled",
+      "ProjectId": 2,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 7949,
+      "state": "disabled",
+      "ProjectId": 20,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 2380,
+      "state": "enabled",
+      "ProjectId": 13,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 7018,
+      "state": "enabled",
+      "ProjectId": 5,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 6284,
+      "state": "enabled",
+      "ProjectId": 7,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 3851,
+      "state": "enabled",
+      "ProjectId": 17,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 7062,
+      "state": "disabled",
+      "ProjectId": 18,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 7301,
+      "state": "disabled",
+      "ProjectId": 14,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 9228,
+      "state": "enabled",
+      "ProjectId": 17,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 8348,
+      "state": "enabled",
+      "ProjectId": 17,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 7848,
+      "state": "disabled",
+      "ProjectId": 14,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 9398,
+      "state": "disabled",
+      "ProjectId": 14,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 3863,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4923,
+      "state": "enabled",
+      "ProjectId": 15,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 9755,
+      "state": "disabled",
+      "ProjectId": 11,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 2125,
+      "state": "disabled",
+      "ProjectId": 13,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 2465,
+      "state": "enabled",
+      "ProjectId": 20,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 3821,
+      "state": "enabled",
+      "ProjectId": 2,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 6162,
+      "state": "disabled",
+      "ProjectId": 15,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 3763,
+      "state": "disabled",
+      "ProjectId": 13,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3801,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 2847,
+      "state": "disabled",
+      "ProjectId": 5,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 5693,
+      "state": "disabled",
+      "ProjectId": 20,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 7527,
+      "state": "disabled",
+      "ProjectId": 13,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 1184,
+      "state": "enabled",
+      "ProjectId": 11,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 8754,
+      "state": "disabled",
+      "ProjectId": 17,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 5541,
+      "state": "disabled",
+      "ProjectId": 3,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 3812,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8668,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 6776,
+      "state": "enabled",
+      "ProjectId": 8,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 9884,
+      "state": "disabled",
+      "ProjectId": 1,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 1652,
+      "state": "disabled",
+      "ProjectId": 8,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 1621,
+      "state": "disabled",
+      "ProjectId": 5,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 8447,
+      "state": "disabled",
+      "ProjectId": 20,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 2573,
+      "state": "disabled",
+      "ProjectId": 18,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5012,
+      "state": "disabled",
+      "ProjectId": 18,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5103,
+      "state": "enabled",
+      "ProjectId": 6,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 1340,
+      "state": "disabled",
+      "ProjectId": 1,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 4949,
+      "state": "disabled",
+      "ProjectId": 9,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 4312,
+      "state": "enabled",
+      "ProjectId": 5,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 5257,
+      "state": "disabled",
+      "ProjectId": 14,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6228,
+      "state": "disabled",
+      "ProjectId": 2,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 9783,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 7730,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6076,
+      "state": "enabled",
+      "ProjectId": 2,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 3249,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 2126,
+      "state": "enabled",
+      "ProjectId": 13,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 6566,
+      "state": "disabled",
+      "ProjectId": 8,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 2416,
+      "state": "disabled",
+      "ProjectId": 11,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 5049,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 1301,
+      "state": "disabled",
+      "ProjectId": 13,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 1477,
+      "state": "enabled",
+      "ProjectId": 6,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 7080,
+      "state": "disabled",
+      "ProjectId": 20,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8462,
+      "state": "enabled",
+      "ProjectId": 16,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4134,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 6066,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 5100,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 6375,
+      "state": "enabled",
+      "ProjectId": 18,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 6361,
+      "state": "disabled",
+      "ProjectId": 19,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 3017,
+      "state": "disabled",
+      "ProjectId": 16,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 5970,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 2179,
+      "state": "disabled",
+      "ProjectId": 9,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 3828,
+      "state": "disabled",
+      "ProjectId": 2,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 8329,
+      "state": "enabled",
+      "ProjectId": 19,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 7168,
+      "state": "disabled",
+      "ProjectId": 9,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 9544,
+      "state": "enabled",
+      "ProjectId": 11,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 9174,
+      "state": "disabled",
+      "ProjectId": 12,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 5685,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 5503,
+      "state": "enabled",
+      "ProjectId": 11,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 7489,
+      "state": "disabled",
+      "ProjectId": 14,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 9628,
+      "state": "enabled",
+      "ProjectId": 3,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 9578,
+      "state": "enabled",
+      "ProjectId": 16,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 7895,
+      "state": "disabled",
+      "ProjectId": 5,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8964,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 2085,
+      "state": "disabled",
+      "ProjectId": 14,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 2303,
+      "state": "disabled",
+      "ProjectId": 16,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 2955,
+      "state": "disabled",
+      "ProjectId": 1,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4931,
+      "state": "enabled",
+      "ProjectId": 6,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8061,
+      "state": "enabled",
+      "ProjectId": 5,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 9713,
+      "state": "disabled",
+      "ProjectId": 15,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 7681,
+      "state": "disabled",
+      "ProjectId": 16,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 7997,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 9649,
+      "state": "enabled",
+      "ProjectId": 5,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 6598,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 9258,
+      "state": "enabled",
+      "ProjectId": 9,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 7061,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8051,
+      "state": "disabled",
+      "ProjectId": 2,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 2827,
+      "state": "enabled",
+      "ProjectId": 8,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 4314,
+      "state": "enabled",
+      "ProjectId": 3,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 9079,
+      "state": "disabled",
+      "ProjectId": 3,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 7033,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 6708,
+      "state": "disabled",
+      "ProjectId": 3,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 2329,
+      "state": "disabled",
+      "ProjectId": 15,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 2174,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 9745,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4609,
+      "state": "enabled",
+      "ProjectId": 4,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 1052,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 9019,
+      "state": "enabled",
+      "ProjectId": 15,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3217,
+      "state": "disabled",
+      "ProjectId": 19,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8480,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 4239,
+      "state": "disabled",
+      "ProjectId": 14,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5826,
+      "state": "disabled",
+      "ProjectId": 6,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 8216,
+      "state": "enabled",
+      "ProjectId": 5,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 9999,
+      "state": "disabled",
+      "ProjectId": 3,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3763,
+      "state": "disabled",
+      "ProjectId": 13,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 5926,
+      "state": "disabled",
+      "ProjectId": 17,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5783,
+      "state": "disabled",
+      "ProjectId": 8,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 3187,
+      "state": "enabled",
+      "ProjectId": 19,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8244,
+      "state": "enabled",
+      "ProjectId": 19,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8474,
+      "state": "disabled",
+      "ProjectId": 1,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3658,
+      "state": "disabled",
+      "ProjectId": 18,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 3276,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4114,
+      "state": "disabled",
+      "ProjectId": 14,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8428,
+      "state": "disabled",
+      "ProjectId": 20,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 3396,
+      "state": "enabled",
+      "ProjectId": 2,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 6399,
+      "state": "disabled",
+      "ProjectId": 19,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 4806,
+      "state": "enabled",
+      "ProjectId": 7,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 1555,
+      "state": "enabled",
+      "ProjectId": 15,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4047,
+      "state": "enabled",
+      "ProjectId": 4,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 7619,
+      "state": "disabled",
+      "ProjectId": 20,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 5849,
+      "state": "disabled",
+      "ProjectId": 14,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5198,
+      "state": "enabled",
+      "ProjectId": 15,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 9183,
+      "state": "disabled",
+      "ProjectId": 8,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 9356,
+      "state": "enabled",
+      "ProjectId": 18,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 5222,
+      "state": "enabled",
+      "ProjectId": 3,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5293,
+      "state": "enabled",
+      "ProjectId": 10,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 3925,
+      "state": "disabled",
+      "ProjectId": 15,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8396,
+      "state": "enabled",
+      "ProjectId": 10,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8848,
+      "state": "enabled",
+      "ProjectId": 20,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 7507,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8007,
+      "state": "enabled",
+      "ProjectId": 20,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 1064,
+      "state": "disabled",
+      "ProjectId": 16,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 3916,
+      "state": "enabled",
+      "ProjectId": 19,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3466,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 6460,
+      "state": "enabled",
+      "ProjectId": 19,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 6728,
+      "state": "disabled",
+      "ProjectId": 12,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 5829,
+      "state": "disabled",
+      "ProjectId": 3,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 2725,
+      "state": "enabled",
+      "ProjectId": 3,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 9897,
+      "state": "enabled",
+      "ProjectId": 20,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 5061,
+      "state": "enabled",
+      "ProjectId": 20,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5010,
+      "state": "disabled",
+      "ProjectId": 16,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 4613,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8352,
+      "state": "disabled",
+      "ProjectId": 1,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 5586,
+      "state": "disabled",
+      "ProjectId": 11,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 4090,
+      "state": "disabled",
+      "ProjectId": 17,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 7140,
+      "state": "enabled",
+      "ProjectId": 10,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 2526,
+      "state": "enabled",
+      "ProjectId": 15,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 1452,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 6467,
+      "state": "enabled",
+      "ProjectId": 3,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 8900,
+      "state": "enabled",
+      "ProjectId": 4,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 6197,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 6952,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 7127,
+      "state": "disabled",
+      "ProjectId": 20,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 5559,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 2220,
+      "state": "disabled",
+      "ProjectId": 20,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 2466,
+      "state": "disabled",
+      "ProjectId": 15,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 1659,
+      "state": "disabled",
+      "ProjectId": 6,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 5249,
+      "state": "disabled",
+      "ProjectId": 13,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 4176,
+      "state": "enabled",
+      "ProjectId": 8,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6239,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 5961,
+      "state": "disabled",
+      "ProjectId": 3,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8287,
+      "state": "enabled",
+      "ProjectId": 18,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3451,
+      "state": "disabled",
+      "ProjectId": 18,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8710,
+      "state": "enabled",
+      "ProjectId": 17,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8525,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 2915,
+      "state": "disabled",
+      "ProjectId": 13,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 6514,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 2415,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 1254,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8309,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 1868,
+      "state": "disabled",
+      "ProjectId": 1,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4794,
+      "state": "disabled",
+      "ProjectId": 9,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3305,
+      "state": "enabled",
+      "ProjectId": 11,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 1218,
+      "state": "enabled",
+      "ProjectId": 8,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 3172,
+      "state": "enabled",
+      "ProjectId": 17,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 2664,
+      "state": "enabled",
+      "ProjectId": 7,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 2852,
+      "state": "enabled",
+      "ProjectId": 20,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4571,
+      "state": "enabled",
+      "ProjectId": 4,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 8446,
+      "state": "disabled",
+      "ProjectId": 11,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8657,
+      "state": "disabled",
+      "ProjectId": 13,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4572,
+      "state": "enabled",
+      "ProjectId": 11,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 1548,
+      "state": "disabled",
+      "ProjectId": 9,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3172,
+      "state": "enabled",
+      "ProjectId": 11,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 4364,
+      "state": "enabled",
+      "ProjectId": 1,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 6833,
+      "state": "enabled",
+      "ProjectId": 9,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 6835,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 1155,
+      "state": "enabled",
+      "ProjectId": 13,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 9613,
+      "state": "disabled",
+      "ProjectId": 20,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 9513,
+      "state": "enabled",
+      "ProjectId": 20,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 1085,
+      "state": "enabled",
+      "ProjectId": 19,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 7042,
+      "state": "enabled",
+      "ProjectId": 16,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4195,
+      "state": "enabled",
+      "ProjectId": 5,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8457,
+      "state": "enabled",
+      "ProjectId": 5,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 2788,
+      "state": "enabled",
+      "ProjectId": 11,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4145,
+      "state": "disabled",
+      "ProjectId": 16,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 9210,
+      "state": "enabled",
+      "ProjectId": 4,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 7455,
+      "state": "disabled",
+      "ProjectId": 16,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8557,
+      "state": "enabled",
+      "ProjectId": 1,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 1378,
+      "state": "enabled",
+      "ProjectId": 17,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 4394,
+      "state": "enabled",
+      "ProjectId": 5,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 9682,
+      "state": "disabled",
+      "ProjectId": 12,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 4220,
+      "state": "enabled",
+      "ProjectId": 1,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 9743,
+      "state": "disabled",
+      "ProjectId": 8,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 4664,
+      "state": "enabled",
+      "ProjectId": 15,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 7062,
+      "state": "disabled",
+      "ProjectId": 8,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 7584,
+      "state": "enabled",
+      "ProjectId": 4,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 1638,
+      "state": "disabled",
+      "ProjectId": 17,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 7969,
+      "state": "disabled",
+      "ProjectId": 3,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 1506,
+      "state": "enabled",
+      "ProjectId": 6,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 2787,
+      "state": "enabled",
+      "ProjectId": 17,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6656,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 5471,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 3916,
+      "state": "disabled",
+      "ProjectId": 1,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 3713,
+      "state": "enabled",
+      "ProjectId": 17,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 5980,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5764,
+      "state": "enabled",
+      "ProjectId": 1,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 6154,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 8767,
+      "state": "enabled",
+      "ProjectId": 19,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 5822,
+      "state": "enabled",
+      "ProjectId": 18,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 5471,
+      "state": "enabled",
+      "ProjectId": 11,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 6778,
+      "state": "enabled",
+      "ProjectId": 17,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 3811,
+      "state": "disabled",
+      "ProjectId": 8,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5176,
+      "state": "disabled",
+      "ProjectId": 16,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 9040,
+      "state": "enabled",
+      "ProjectId": 18,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 2660,
+      "state": "enabled",
+      "ProjectId": 16,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 5558,
+      "state": "disabled",
+      "ProjectId": 5,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 1463,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5340,
+      "state": "enabled",
+      "ProjectId": 1,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 2659,
+      "state": "enabled",
+      "ProjectId": 15,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 8068,
+      "state": "disabled",
+      "ProjectId": 3,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 7125,
+      "state": "disabled",
+      "ProjectId": 17,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 1847,
+      "state": "enabled",
+      "ProjectId": 4,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 9115,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 2466,
+      "state": "enabled",
+      "ProjectId": 16,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 5895,
+      "state": "enabled",
+      "ProjectId": 9,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6453,
+      "state": "disabled",
+      "ProjectId": 17,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 2311,
+      "state": "disabled",
+      "ProjectId": 9,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 2953,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 3226,
+      "state": "enabled",
+      "ProjectId": 18,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 9603,
+      "state": "enabled",
+      "ProjectId": 5,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4697,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 1092,
+      "state": "enabled",
+      "ProjectId": 15,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 7078,
+      "state": "disabled",
+      "ProjectId": 6,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 3214,
+      "state": "disabled",
+      "ProjectId": 19,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 7160,
+      "state": "disabled",
+      "ProjectId": 1,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3236,
+      "state": "enabled",
+      "ProjectId": 19,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 5744,
+      "state": "enabled",
+      "ProjectId": 17,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 5473,
+      "state": "disabled",
+      "ProjectId": 9,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3421,
+      "state": "enabled",
+      "ProjectId": 20,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5132,
+      "state": "disabled",
+      "ProjectId": 19,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 7826,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 4686,
+      "state": "enabled",
+      "ProjectId": 9,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 2761,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 6574,
+      "state": "enabled",
+      "ProjectId": 6,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8093,
+      "state": "disabled",
+      "ProjectId": 16,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 2956,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 2914,
+      "state": "enabled",
+      "ProjectId": 3,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 1064,
+      "state": "disabled",
+      "ProjectId": 13,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 2527,
+      "state": "disabled",
+      "ProjectId": 16,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 1486,
+      "state": "disabled",
+      "ProjectId": 1,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 4759,
+      "state": "enabled",
+      "ProjectId": 17,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 3888,
+      "state": "enabled",
+      "ProjectId": 5,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 4159,
+      "state": "disabled",
+      "ProjectId": 3,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 2966,
+      "state": "enabled",
+      "ProjectId": 16,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 5658,
+      "state": "disabled",
+      "ProjectId": 15,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 5533,
+      "state": "enabled",
+      "ProjectId": 16,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 5172,
+      "state": "enabled",
+      "ProjectId": 18,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 5671,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8417,
+      "state": "disabled",
+      "ProjectId": 2,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 2589,
+      "state": "disabled",
+      "ProjectId": 2,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 1576,
+      "state": "disabled",
+      "ProjectId": 16,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 3626,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 7706,
+      "state": "enabled",
+      "ProjectId": 16,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 6194,
+      "state": "disabled",
+      "ProjectId": 14,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8544,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 2484,
+      "state": "enabled",
+      "ProjectId": 4,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 6690,
+      "state": "disabled",
+      "ProjectId": 6,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 6662,
+      "state": "enabled",
+      "ProjectId": 19,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 8797,
+      "state": "enabled",
+      "ProjectId": 5,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 9978,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 3611,
+      "state": "disabled",
+      "ProjectId": 14,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8633,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 7568,
+      "state": "disabled",
+      "ProjectId": 18,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 6745,
+      "state": "disabled",
+      "ProjectId": 19,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 4848,
+      "state": "enabled",
+      "ProjectId": 11,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 6485,
+      "state": "disabled",
+      "ProjectId": 15,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5563,
+      "state": "enabled",
+      "ProjectId": 2,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 9264,
+      "state": "disabled",
+      "ProjectId": 19,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 6751,
+      "state": "enabled",
+      "ProjectId": 9,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 7329,
+      "state": "disabled",
+      "ProjectId": 20,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 3904,
+      "state": "disabled",
+      "ProjectId": 8,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3056,
+      "state": "disabled",
+      "ProjectId": 8,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 6452,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 6508,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 2790,
+      "state": "disabled",
+      "ProjectId": 17,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 2866,
+      "state": "disabled",
+      "ProjectId": 11,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 8592,
+      "state": "disabled",
+      "ProjectId": 6,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 5131,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 2619,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 4191,
+      "state": "disabled",
+      "ProjectId": 13,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 9288,
+      "state": "disabled",
+      "ProjectId": 6,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 1951,
+      "state": "enabled",
+      "ProjectId": 8,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 4627,
+      "state": "disabled",
+      "ProjectId": 12,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 2796,
+      "state": "enabled",
+      "ProjectId": 2,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 8367,
+      "state": "disabled",
+      "ProjectId": 15,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8917,
+      "state": "enabled",
+      "ProjectId": 10,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 9567,
+      "state": "enabled",
+      "ProjectId": 18,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 3355,
+      "state": "enabled",
+      "ProjectId": 3,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 4703,
+      "state": "enabled",
+      "ProjectId": 13,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 6850,
+      "state": "disabled",
+      "ProjectId": 19,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 4764,
+      "state": "disabled",
+      "ProjectId": 2,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 7622,
+      "state": "disabled",
+      "ProjectId": 2,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 6218,
+      "state": "disabled",
+      "ProjectId": 18,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 5175,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 8992,
+      "state": "disabled",
+      "ProjectId": 17,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 8809,
+      "state": "disabled",
+      "ProjectId": 2,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 4267,
+      "state": "enabled",
+      "ProjectId": 11,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3200,
+      "state": "disabled",
+      "ProjectId": 13,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 9226,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 7411,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 8243,
+      "state": "disabled",
+      "ProjectId": 16,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 2306,
+      "state": "enabled",
+      "ProjectId": 20,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8114,
+      "state": "enabled",
+      "ProjectId": 20,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 5569,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3923,
+      "state": "enabled",
+      "ProjectId": 6,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 3381,
+      "state": "enabled",
+      "ProjectId": 11,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 1371,
+      "state": "enabled",
+      "ProjectId": 16,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 7476,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 6611,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4467,
+      "state": "enabled",
+      "ProjectId": 15,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 2833,
+      "state": "disabled",
+      "ProjectId": 6,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 1549,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3403,
+      "state": "enabled",
+      "ProjectId": 19,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 3087,
+      "state": "enabled",
+      "ProjectId": 9,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 1997,
+      "state": "disabled",
+      "ProjectId": 1,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 5945,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 1331,
+      "state": "disabled",
+      "ProjectId": 12,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 4455,
+      "state": "enabled",
+      "ProjectId": 16,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 1720,
+      "state": "disabled",
+      "ProjectId": 1,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 4156,
+      "state": "enabled",
+      "ProjectId": 19,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 2670,
+      "state": "disabled",
+      "ProjectId": 9,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 1961,
+      "state": "enabled",
+      "ProjectId": 3,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 1510,
+      "state": "enabled",
+      "ProjectId": 5,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 1533,
+      "state": "enabled",
+      "ProjectId": 18,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 1245,
+      "state": "disabled",
+      "ProjectId": 14,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 1263,
+      "state": "disabled",
+      "ProjectId": 20,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 6346,
+      "state": "disabled",
+      "ProjectId": 6,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 6958,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 9462,
+      "state": "disabled",
+      "ProjectId": 9,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8408,
+      "state": "enabled",
+      "ProjectId": 11,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 3706,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 9631,
+      "state": "disabled",
+      "ProjectId": 17,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 7787,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8735,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 1162,
+      "state": "disabled",
+      "ProjectId": 8,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 5288,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 9715,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 8731,
+      "state": "disabled",
+      "ProjectId": 11,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8845,
+      "state": "enabled",
+      "ProjectId": 1,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 4392,
+      "state": "enabled",
+      "ProjectId": 19,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 2692,
+      "state": "enabled",
+      "ProjectId": 13,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 5095,
+      "state": "disabled",
+      "ProjectId": 15,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 2483,
+      "state": "disabled",
+      "ProjectId": 13,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 1512,
+      "state": "disabled",
+      "ProjectId": 14,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8704,
+      "state": "enabled",
+      "ProjectId": 20,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 2365,
+      "state": "enabled",
+      "ProjectId": 20,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 7560,
+      "state": "disabled",
+      "ProjectId": 20,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 2676,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 9263,
+      "state": "disabled",
+      "ProjectId": 18,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 7227,
+      "state": "enabled",
+      "ProjectId": 8,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 2945,
+      "state": "enabled",
+      "ProjectId": 13,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 4516,
+      "state": "enabled",
+      "ProjectId": 19,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 6702,
+      "state": "enabled",
+      "ProjectId": 13,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 3192,
+      "state": "disabled",
+      "ProjectId": 9,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 8355,
+      "state": "disabled",
+      "ProjectId": 1,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 7832,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 3037,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 6494,
+      "state": "disabled",
+      "ProjectId": 8,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4099,
+      "state": "disabled",
+      "ProjectId": 17,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 8151,
+      "state": "enabled",
+      "ProjectId": 1,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5649,
+      "state": "disabled",
+      "ProjectId": 8,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4521,
+      "state": "disabled",
+      "ProjectId": 19,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 1036,
+      "state": "enabled",
+      "ProjectId": 5,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 2436,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5003,
+      "state": "disabled",
+      "ProjectId": 3,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6059,
+      "state": "disabled",
+      "ProjectId": 15,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5013,
+      "state": "enabled",
+      "ProjectId": 16,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 9527,
+      "state": "enabled",
+      "ProjectId": 9,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 2827,
+      "state": "enabled",
+      "ProjectId": 1,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 7568,
+      "state": "enabled",
+      "ProjectId": 2,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 2454,
+      "state": "enabled",
+      "ProjectId": 20,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 1544,
+      "state": "disabled",
+      "ProjectId": 13,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 5063,
+      "state": "disabled",
+      "ProjectId": 12,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 6573,
+      "state": "disabled",
+      "ProjectId": 13,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 6244,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4204,
+      "state": "disabled",
+      "ProjectId": 6,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5384,
+      "state": "disabled",
+      "ProjectId": 14,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 6726,
+      "state": "disabled",
+      "ProjectId": 1,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 3442,
+      "state": "disabled",
+      "ProjectId": 12,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 1568,
+      "state": "enabled",
+      "ProjectId": 16,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 4462,
+      "state": "disabled",
+      "ProjectId": 18,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 7317,
+      "state": "enabled",
+      "ProjectId": 13,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 8003,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 6600,
+      "state": "enabled",
+      "ProjectId": 2,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 4036,
+      "state": "enabled",
+      "ProjectId": 15,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 1687,
+      "state": "disabled",
+      "ProjectId": 11,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 4275,
+      "state": "disabled",
+      "ProjectId": 19,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 9340,
+      "state": "enabled",
+      "ProjectId": 5,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 9579,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 6622,
+      "state": "enabled",
+      "ProjectId": 1,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 2968,
+      "state": "enabled",
+      "ProjectId": 13,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5337,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 1999,
+      "state": "enabled",
+      "ProjectId": 16,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 7724,
+      "state": "disabled",
+      "ProjectId": 16,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 7955,
+      "state": "disabled",
+      "ProjectId": 6,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 6374,
+      "state": "enabled",
+      "ProjectId": 8,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 2508,
+      "state": "disabled",
+      "ProjectId": 6,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 7244,
+      "state": "disabled",
+      "ProjectId": 19,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 2635,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 2473,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6364,
+      "state": "disabled",
+      "ProjectId": 14,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 7126,
+      "state": "disabled",
+      "ProjectId": 9,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 7719,
+      "state": "disabled",
+      "ProjectId": 14,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 7779,
+      "state": "enabled",
+      "ProjectId": 4,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 2115,
+      "state": "enabled",
+      "ProjectId": 7,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 6434,
+      "state": "disabled",
+      "ProjectId": 5,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 2059,
+      "state": "enabled",
+      "ProjectId": 1,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 4250,
+      "state": "enabled",
+      "ProjectId": 4,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4911,
+      "state": "disabled",
+      "ProjectId": 18,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 6525,
+      "state": "disabled",
+      "ProjectId": 1,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6929,
+      "state": "disabled",
+      "ProjectId": 2,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 1209,
+      "state": "disabled",
+      "ProjectId": 13,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 2927,
+      "state": "enabled",
+      "ProjectId": 11,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6412,
+      "state": "disabled",
+      "ProjectId": 16,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 5420,
+      "state": "enabled",
+      "ProjectId": 2,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 7733,
+      "state": "disabled",
+      "ProjectId": 18,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 4213,
+      "state": "disabled",
+      "ProjectId": 5,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 4791,
+      "state": "enabled",
+      "ProjectId": 6,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 7281,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 1057,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4305,
+      "state": "enabled",
+      "ProjectId": 6,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 3835,
+      "state": "disabled",
+      "ProjectId": 13,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 4012,
+      "state": "disabled",
+      "ProjectId": 12,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 3486,
+      "state": "enabled",
+      "ProjectId": 7,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 7774,
+      "state": "enabled",
+      "ProjectId": 18,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 5680,
+      "state": "disabled",
+      "ProjectId": 16,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8344,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 7791,
+      "state": "enabled",
+      "ProjectId": 7,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 5242,
+      "state": "enabled",
+      "ProjectId": 6,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4966,
+      "state": "disabled",
+      "ProjectId": 1,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 3599,
+      "state": "enabled",
+      "ProjectId": 13,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 9998,
+      "state": "disabled",
+      "ProjectId": 3,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 1116,
+      "state": "enabled",
+      "ProjectId": 10,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 2153,
+      "state": "disabled",
+      "ProjectId": 5,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 7690,
+      "state": "disabled",
+      "ProjectId": 13,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5489,
+      "state": "enabled",
+      "ProjectId": 10,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 4590,
+      "state": "disabled",
+      "ProjectId": 17,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 4531,
+      "state": "enabled",
+      "ProjectId": 11,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 7293,
+      "state": "enabled",
+      "ProjectId": 3,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3725,
+      "state": "disabled",
+      "ProjectId": 14,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3172,
+      "state": "disabled",
+      "ProjectId": 8,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 2715,
+      "state": "enabled",
+      "ProjectId": 6,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8922,
+      "state": "enabled",
+      "ProjectId": 11,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 7992,
+      "state": "disabled",
+      "ProjectId": 2,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 7824,
+      "state": "enabled",
+      "ProjectId": 9,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 7728,
+      "state": "enabled",
+      "ProjectId": 13,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 3629,
+      "state": "enabled",
+      "ProjectId": 19,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8314,
+      "state": "disabled",
+      "ProjectId": 6,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 6169,
+      "state": "enabled",
+      "ProjectId": 18,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 4984,
+      "state": "disabled",
+      "ProjectId": 14,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 6025,
+      "state": "disabled",
+      "ProjectId": 17,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6255,
+      "state": "enabled",
+      "ProjectId": 2,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8666,
+      "state": "disabled",
+      "ProjectId": 9,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5893,
+      "state": "enabled",
+      "ProjectId": 20,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 9603,
+      "state": "disabled",
+      "ProjectId": 5,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 9886,
+      "state": "enabled",
+      "ProjectId": 1,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 1949,
+      "state": "disabled",
+      "ProjectId": 12,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 1697,
+      "state": "enabled",
+      "ProjectId": 6,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 4259,
+      "state": "enabled",
+      "ProjectId": 17,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 8946,
+      "state": "enabled",
+      "ProjectId": 2,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 2996,
+      "state": "disabled",
+      "ProjectId": 19,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 5097,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4806,
+      "state": "enabled",
+      "ProjectId": 19,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 8352,
+      "state": "enabled",
+      "ProjectId": 9,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 3850,
+      "state": "disabled",
+      "ProjectId": 18,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6508,
+      "state": "enabled",
+      "ProjectId": 13,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4394,
+      "state": "enabled",
+      "ProjectId": 11,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 3804,
+      "state": "enabled",
+      "ProjectId": 18,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 2590,
+      "state": "enabled",
+      "ProjectId": 11,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 9295,
+      "state": "enabled",
+      "ProjectId": 6,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 4028,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5494,
+      "state": "enabled",
+      "ProjectId": 16,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 9659,
+      "state": "enabled",
+      "ProjectId": 19,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 1762,
+      "state": "enabled",
+      "ProjectId": 7,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 1086,
+      "state": "disabled",
+      "ProjectId": 16,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 8524,
+      "state": "enabled",
+      "ProjectId": 13,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 6858,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 8162,
+      "state": "disabled",
+      "ProjectId": 17,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8150,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 8395,
+      "state": "disabled",
+      "ProjectId": 17,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 9827,
+      "state": "enabled",
+      "ProjectId": 13,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5774,
+      "state": "disabled",
+      "ProjectId": 3,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 7001,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 2599,
+      "state": "disabled",
+      "ProjectId": 13,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 2323,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 3910,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 7100,
+      "state": "enabled",
+      "ProjectId": 20,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 3956,
+      "state": "enabled",
+      "ProjectId": 11,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8125,
+      "state": "enabled",
+      "ProjectId": 1,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 9881,
+      "state": "enabled",
+      "ProjectId": 1,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8936,
+      "state": "enabled",
+      "ProjectId": 7,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 4492,
+      "state": "enabled",
+      "ProjectId": 8,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 8245,
+      "state": "disabled",
+      "ProjectId": 18,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 2309,
+      "state": "enabled",
+      "ProjectId": 9,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8226,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5299,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 2946,
+      "state": "disabled",
+      "ProjectId": 15,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 8256,
+      "state": "enabled",
+      "ProjectId": 9,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 8809,
+      "state": "disabled",
+      "ProjectId": 1,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 7626,
+      "state": "enabled",
+      "ProjectId": 11,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 9560,
+      "state": "disabled",
+      "ProjectId": 11,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 3259,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6202,
+      "state": "enabled",
+      "ProjectId": 1,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3430,
+      "state": "enabled",
+      "ProjectId": 10,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 7785,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5986,
+      "state": "enabled",
+      "ProjectId": 11,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 6110,
+      "state": "enabled",
+      "ProjectId": 8,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3811,
+      "state": "disabled",
+      "ProjectId": 16,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8287,
+      "state": "enabled",
+      "ProjectId": 11,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 5100,
+      "state": "enabled",
+      "ProjectId": 18,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 5857,
+      "state": "disabled",
+      "ProjectId": 20,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 3630,
+      "state": "disabled",
+      "ProjectId": 8,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 9955,
+      "state": "disabled",
+      "ProjectId": 12,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 9446,
+      "state": "enabled",
+      "ProjectId": 20,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 3003,
+      "state": "enabled",
+      "ProjectId": 3,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 5573,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 1998,
+      "state": "enabled",
+      "ProjectId": 8,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 9590,
+      "state": "disabled",
+      "ProjectId": 18,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 2897,
+      "state": "enabled",
+      "ProjectId": 10,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 1390,
+      "state": "enabled",
+      "ProjectId": 19,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 2773,
+      "state": "enabled",
+      "ProjectId": 3,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 5464,
+      "state": "disabled",
+      "ProjectId": 13,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 3606,
+      "state": "disabled",
+      "ProjectId": 11,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8389,
+      "state": "enabled",
+      "ProjectId": 7,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 7687,
+      "state": "enabled",
+      "ProjectId": 20,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4371,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 6437,
+      "state": "enabled",
+      "ProjectId": 20,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8447,
+      "state": "enabled",
+      "ProjectId": 18,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 3391,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 3278,
+      "state": "enabled",
+      "ProjectId": 9,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 1196,
+      "state": "disabled",
+      "ProjectId": 11,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 9278,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 2378,
+      "state": "disabled",
+      "ProjectId": 9,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 7595,
+      "state": "enabled",
+      "ProjectId": 15,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 9486,
+      "state": "disabled",
+      "ProjectId": 1,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 7597,
+      "state": "enabled",
+      "ProjectId": 8,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5812,
+      "state": "enabled",
+      "ProjectId": 10,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 3301,
+      "state": "disabled",
+      "ProjectId": 3,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 5596,
+      "state": "enabled",
+      "ProjectId": 17,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 7311,
+      "state": "disabled",
+      "ProjectId": 11,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 4069,
+      "state": "disabled",
+      "ProjectId": 14,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 9483,
+      "state": "enabled",
+      "ProjectId": 17,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 5910,
+      "state": "disabled",
+      "ProjectId": 11,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8182,
+      "state": "disabled",
+      "ProjectId": 16,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 7883,
+      "state": "disabled",
+      "ProjectId": 2,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 9498,
+      "state": "enabled",
+      "ProjectId": 7,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 3161,
+      "state": "enabled",
+      "ProjectId": 9,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 5503,
+      "state": "enabled",
+      "ProjectId": 10,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 4438,
+      "state": "enabled",
+      "ProjectId": 15,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8873,
+      "state": "disabled",
+      "ProjectId": 13,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5565,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 2763,
+      "state": "disabled",
+      "ProjectId": 5,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8024,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 9073,
+      "state": "disabled",
+      "ProjectId": 18,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 5885,
+      "state": "disabled",
+      "ProjectId": 3,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 7921,
+      "state": "enabled",
+      "ProjectId": 7,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 3249,
+      "state": "disabled",
+      "ProjectId": 1,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 3182,
+      "state": "disabled",
+      "ProjectId": 5,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 6276,
+      "state": "disabled",
+      "ProjectId": 6,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 3694,
+      "state": "enabled",
+      "ProjectId": 2,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 8282,
+      "state": "disabled",
+      "ProjectId": 18,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4395,
+      "state": "enabled",
+      "ProjectId": 2,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 6917,
+      "state": "disabled",
+      "ProjectId": 13,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 3234,
+      "state": "disabled",
+      "ProjectId": 11,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3955,
+      "state": "disabled",
+      "ProjectId": 2,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6042,
+      "state": "disabled",
+      "ProjectId": 20,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 4020,
+      "state": "disabled",
+      "ProjectId": 20,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 8343,
+      "state": "disabled",
+      "ProjectId": 8,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 7190,
+      "state": "enabled",
+      "ProjectId": 18,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 2292,
+      "state": "enabled",
+      "ProjectId": 19,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 2291,
+      "state": "disabled",
+      "ProjectId": 1,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 6827,
+      "state": "disabled",
+      "ProjectId": 16,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 7392,
+      "state": "enabled",
+      "ProjectId": 8,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 8184,
+      "state": "enabled",
+      "ProjectId": 8,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 7903,
+      "state": "enabled",
+      "ProjectId": 8,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 4641,
+      "state": "enabled",
+      "ProjectId": 12,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 3108,
+      "state": "enabled",
+      "ProjectId": 8,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 3387,
+      "state": "enabled",
+      "ProjectId": 3,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 3659,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 3501,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 5356,
+      "state": "disabled",
+      "ProjectId": 11,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5835,
+      "state": "enabled",
+      "ProjectId": 1,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8620,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8602,
+      "state": "disabled",
+      "ProjectId": 12,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 3325,
+      "state": "enabled",
+      "ProjectId": 19,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 5979,
+      "state": "disabled",
+      "ProjectId": 17,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 6324,
+      "state": "disabled",
+      "ProjectId": 16,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4056,
+      "state": "enabled",
+      "ProjectId": 20,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4762,
+      "state": "enabled",
+      "ProjectId": 13,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 9431,
+      "state": "enabled",
+      "ProjectId": 9,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 9892,
+      "state": "disabled",
+      "ProjectId": 16,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 1515,
+      "state": "disabled",
+      "ProjectId": 2,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6489,
+      "state": "disabled",
+      "ProjectId": 13,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 2974,
+      "state": "disabled",
+      "ProjectId": 9,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5080,
+      "state": "disabled",
+      "ProjectId": 1,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 2535,
+      "state": "enabled",
+      "ProjectId": 4,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 7733,
+      "state": "disabled",
+      "ProjectId": 20,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 6059,
+      "state": "enabled",
+      "ProjectId": 10,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4890,
+      "state": "disabled",
+      "ProjectId": 20,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 7208,
+      "state": "enabled",
+      "ProjectId": 3,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 7939,
+      "state": "disabled",
+      "ProjectId": 1,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 6042,
+      "state": "disabled",
+      "ProjectId": 13,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6660,
+      "state": "enabled",
+      "ProjectId": 19,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8189,
+      "state": "disabled",
+      "ProjectId": 20,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6809,
+      "state": "disabled",
+      "ProjectId": 2,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 9546,
+      "state": "enabled",
+      "ProjectId": 2,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 5429,
+      "state": "disabled",
+      "ProjectId": 3,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 5571,
+      "state": "enabled",
+      "ProjectId": 15,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 8647,
+      "state": "enabled",
+      "ProjectId": 10,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5141,
+      "state": "enabled",
+      "ProjectId": 9,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 2145,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8873,
+      "state": "disabled",
+      "ProjectId": 10,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 9860,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 7875,
+      "state": "disabled",
+      "ProjectId": 17,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 9855,
+      "state": "disabled",
+      "ProjectId": 18,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 5027,
+      "state": "enabled",
+      "ProjectId": 4,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 8484,
+      "state": "disabled",
+      "ProjectId": 6,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 5082,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 8659,
+      "state": "disabled",
+      "ProjectId": 15,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 2493,
+      "state": "disabled",
+      "ProjectId": 19,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 2910,
+      "state": "enabled",
+      "ProjectId": 18,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 3038,
+      "state": "disabled",
+      "ProjectId": 15,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 4920,
+      "state": "disabled",
+      "ProjectId": 8,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 3208,
+      "state": "disabled",
+      "ProjectId": 19,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 3610,
+      "state": "disabled",
+      "ProjectId": 11,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 6699,
+      "state": "disabled",
+      "ProjectId": 3,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8000,
+      "state": "disabled",
+      "ProjectId": 9,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 5936,
+      "state": "enabled",
+      "ProjectId": 13,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 3557,
+      "state": "disabled",
+      "ProjectId": 8,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 4304,
+      "state": "enabled",
+      "ProjectId": 16,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 5475,
+      "state": "enabled",
+      "ProjectId": 13,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 1096,
+      "state": "enabled",
+      "ProjectId": 15,
+      "type": "quality-air-sensor"
+    },
+    {
+      "code": 8072,
+      "state": "enabled",
+      "ProjectId": 14,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 8794,
+      "state": "disabled",
+      "ProjectId": 4,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 1506,
+      "state": "disabled",
+      "ProjectId": 8,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 6639,
+      "state": "enabled",
+      "ProjectId": 16,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 2163,
+      "state": "disabled",
+      "ProjectId": 9,
+      "type": "temperature-sensor"
+    },
+    {
+      "code": 1489,
+      "state": "disabled",
+      "ProjectId": 13,
+      "type": "carbon-sensor"
+    },
+    {
+      "code": 1097,
+      "state": "disabled",
+      "ProjectId": 16,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 7029,
+      "state": "disabled",
+      "ProjectId": 9,
+      "type": "energy-sensor"
+    },
+    {
+      "code": 4238,
+      "state": "disabled",
+      "ProjectId": 7,
+      "type": "energy-sensor"
+    }
+  ]
+}

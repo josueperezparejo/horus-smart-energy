@@ -1,0 +1,399 @@
+{
+	"info": {
+		"_postman_id": "50de4ff3-ab46-407d-bd76-f8778b53cc31",
+		"name": "Horus",
+		"description": "Horus API: Sistema de Gestión de Usuarios y Proyectos\n\n**Tipos de Datos:**\n\n`User`: Representa un usuario en el sistema.\n\n**Propiedades:**\n\n- `id`: ID del usuario (tipo Int)\n- `username`: Nombre de usuario (tipo String)\n- `projects`: Lista de proyectos asociados al usuario (tipo \\[Project\\])\n    \n\n`AuthPayload`: Información de autenticación devuelta después de iniciar sesión.\n\n**Propiedades:**\n\n- `token`: Token de autenticación generado (tipo String)\n- `user`: Usuario autenticado (tipo User)\n    \n\n`Project`: Representa un proyecto en el sistema.\n\n**Propiedades:**\n\n- `id`: ID del proyecto (tipo Int)\n- `name`: Nombre del proyecto (tipo String)\n- `enabled`: Estado de habilitación del proyecto (tipo Boolean)\n- `time_zone`: Zona horaria del proyecto (tipo String)\n- `created_by`: ID del usuario creador del proyecto (tipo Int)\n- `devices`: Lista de dispositivos asociados al proyecto (tipo \\[Device\\])\n    \n\n`Device`: Representa un dispositivo en el sistema.\n\n**Propiedades:**\n\n- `id`: ID del dispositivo (tipo Int)\n- `name`: Nombre del dispositivo (tipo String)\n- `type`: Tipo de dispositivo (tipo String)\n- `visible`: Estado de visibilidad del dispositivo (tipo Boolean)",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "33185395"
+	},
+	"item": [
+		{
+			"name": "users",
+			"item": [
+				{
+					"name": "getUsers",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "graphql",
+							"graphql": {
+								"query": "query{\r\n  getUsers {\r\n    id\r\n    username\r\n  }\r\n}",
+								"variables": ""
+							}
+						},
+						"url": {
+							"raw": "{{horusGraphql}}",
+							"host": [
+								"{{horusGraphql}}"
+							]
+						},
+						"description": "Obtiene la lista de todos los usuarios.\n\nTipo de consulta: Query\n\nTipo de retorno: Lista de objetos User"
+					},
+					"response": []
+				},
+				{
+					"name": "getUserById",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "graphql",
+							"graphql": {
+								"query": "query{\r\n  getUserById(id: 1) {\r\n    id\r\n    username\r\n  }\r\n}",
+								"variables": ""
+							}
+						},
+						"url": {
+							"raw": "{{horusGraphql}}",
+							"host": [
+								"{{horusGraphql}}"
+							]
+						},
+						"description": "Obtiene un usuario por su ID.\n\nTipo de consulta: Query\n\nParámetros:\n\n- `id`: ID del usuario (requerido)\n    \n\nTipo de retorno: Objeto User"
+					},
+					"response": []
+				},
+				{
+					"name": "createUser",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "graphql",
+							"graphql": {
+								"query": "mutation{\r\n  createUser(username: \"josue\", password: \"perez\") {\r\n    id\r\n    username\r\n  }\r\n}",
+								"variables": ""
+							}
+						},
+						"url": {
+							"raw": "{{horusGraphql}}",
+							"host": [
+								"{{horusGraphql}}"
+							]
+						},
+						"description": "Crea un nuevo usuario.\n\nTipo de consulta: Mutation\n\nParámetros:\n\n- `username`: Nombre de usuario (requerido)\n- `password`: Contraseña del usuario (requerido)\n    \n\nTipo de retorno: Objeto User"
+					},
+					"response": []
+				},
+				{
+					"name": "login",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "graphql",
+							"graphql": {
+								"query": "mutation{\r\n  login(username: \"josue\", password: \"perez\") {\r\n    token\r\n    user {\r\n      id\r\n      username\r\n    }\r\n  }\r\n}",
+								"variables": ""
+							}
+						},
+						"url": {
+							"raw": "{{horusGraphql}}",
+							"host": [
+								"{{horusGraphql}}"
+							]
+						},
+						"description": "Inicia sesión de usuario.\n\nTipo de consulta: Mutation\n\nParámetros:\n\n- `username`: Nombre de usuario (requerido)\n- `password`: Contraseña del usuario (requerido)\n    \n\nTipo de retorno: Objeto AuthPayload"
+					},
+					"response": []
+				},
+				{
+					"name": "updateUser",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsImlhdCI6MTcwODgxMTkzMiwiZXhwIjoxNzA4ODE1NTMyfQ.TPMR0WTQNRtuoD67TOkmfVLkglhUnd_kLmsWBIGOhrM",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "graphql",
+							"graphql": {
+								"query": "mutation{\r\n  updateUser(id: 2, username: \"josue david\", password: \"perez parejo\") {\r\n    id\r\n    username\r\n  }\r\n}",
+								"variables": ""
+							}
+						},
+						"url": {
+							"raw": "{{horusGraphql}}",
+							"host": [
+								"{{horusGraphql}}"
+							]
+						},
+						"description": "Actualiza un usuario existente.\n\nTipo de consulta: Mutation\n\nParámetros:\n\n- `id`: ID del usuario (requerido)\n- `username`: Nuevo nombre de usuario (requerido)\n- `password`: Nueva contraseña del usuario (requerido)\n    \n\nTipo de retorno: Objeto User"
+					},
+					"response": []
+				},
+				{
+					"name": "softDeleteUser",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsImlhdCI6MTcwODgxMTkzMiwiZXhwIjoxNzA4ODE1NTMyfQ.TPMR0WTQNRtuoD67TOkmfVLkglhUnd_kLmsWBIGOhrM",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "graphql",
+							"graphql": {
+								"query": "mutation{\r\n  softDeleteUser(id: 2) {\r\n    id\r\n    username\r\n  }\r\n}",
+								"variables": ""
+							}
+						},
+						"url": {
+							"raw": "{{horusGraphql}}",
+							"host": [
+								"{{horusGraphql}}"
+							]
+						},
+						"description": "Desactiva un usuario.\n\nTipo de consulta: Mutation\n\nParámetros:\n\n- `id`: ID del usuario (requerido)\n    \n\nTipo de retorno: Objeto User"
+					},
+					"response": []
+				}
+			],
+			"description": "**Descripción:** API GraphQL para gestionar usuarios y autenticación"
+		},
+		{
+			"name": "projects",
+			"item": [
+				{
+					"name": "getProjects",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "graphql",
+							"graphql": {
+								"query": "query{\r\n  getProjects {\r\n    enabled\r\n    id\r\n    name\r\n    time_zone\r\n    created_by\r\n  }\r\n}",
+								"variables": ""
+							}
+						},
+						"url": {
+							"raw": "{{horusGraphql}}",
+							"host": [
+								"{{horusGraphql}}"
+							]
+						},
+						"description": "Obtiene la lista de todos los proyectos.\n\nTipo de consulta: Query\n\nTipo de retorno: Lista de objetos Project"
+					},
+					"response": []
+				},
+				{
+					"name": "getProjectById",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "graphql",
+							"graphql": {
+								"query": "query{\r\n  getProjectById(id: 1) {\r\n    created_by\r\n    enabled\r\n    id\r\n    name\r\n    time_zone\r\n  }\r\n}",
+								"variables": ""
+							}
+						},
+						"url": {
+							"raw": "{{horusGraphql}}",
+							"host": [
+								"{{horusGraphql}}"
+							]
+						},
+						"description": "Obtiene un proyecto por su ID.\n\nTipo de consulta: Query\n\nParámetros:\n\n- `id`: ID del proyecto (requerido)\n    \n\nTipo de retorno: Objeto Project"
+					},
+					"response": []
+				},
+				{
+					"name": "createProject",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "graphql",
+							"graphql": {
+								"query": "mutation{\r\n  createProject(name: \"first project\", enabled: true, time_zone: \"2024-02-24\", created_by: 1) {\r\n    created_by\r\n    enabled\r\n    id\r\n    name\r\n    time_zone\r\n  }\r\n}",
+								"variables": ""
+							}
+						},
+						"url": {
+							"raw": "{{horusGraphql}}",
+							"host": [
+								"{{horusGraphql}}"
+							]
+						},
+						"description": "Crea un nuevo proyecto.\n\nTipo de consulta: Mutation\n\nParámetros:\n\n- `name`: Nombre del proyecto (requerido)\n- `enabled`: Estado de habilitación del proyecto (requerido)\n- `time_zone`: Zona horaria del proyecto (requerido)\n- `created_by`: ID del usuario creador del proyecto (requerido)\n    \n\nTipo de retorno: Objeto Project"
+					},
+					"response": []
+				},
+				{
+					"name": "updateProject",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "graphql",
+							"graphql": {
+								"query": "mutation{\r\n  updateProject(id: 1, name: \"first project updated\", enabled: true, time_zone: \"2024-02-24\") {\r\n    created_by\r\n    enabled\r\n    id\r\n    name\r\n    time_zone\r\n  }\r\n}",
+								"variables": ""
+							}
+						},
+						"url": {
+							"raw": "{{horusGraphql}}",
+							"host": [
+								"{{horusGraphql}}"
+							]
+						},
+						"description": "Actualiza un proyecto existente.\n\nTipo de consulta: Mutation\n\nParámetros:\n\n- `id`: ID del proyecto (requerido)\n- `name`: Nuevo nombre del proyecto (requerido)\n- `enabled`: Nuevo estado de habilitación del proyecto (requerido)\n- `time_zone`: Nueva zona horaria del proyecto (requerido)\n- `created_by`: Nuevo ID del usuario creador del proyecto (opcional)\n    \n\nTipo de retorno: Objeto Project"
+					},
+					"response": []
+				},
+				{
+					"name": "softDeleteProject",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "graphql",
+							"graphql": {
+								"query": "mutation{\r\n  softDeleteProject(id: 1) {\r\n    created_by\r\n    enabled\r\n    id\r\n    name\r\n    time_zone\r\n  }\r\n}",
+								"variables": ""
+							}
+						},
+						"url": {
+							"raw": "{{horusGraphql}}",
+							"host": [
+								"{{horusGraphql}}"
+							]
+						},
+						"description": "Desactiva un proyecto (eliminación suave).\n\nTipo de consulta: Mutation\n\nParámetros:\n\n- `id`: ID del proyecto (requerido)\n    \n\nTipo de retorno: Objeto Project"
+					},
+					"response": []
+				}
+			],
+			"description": "**Descripción:** API GraphQL para gestionar proyectos y sus dispositivos asociados."
+		},
+		{
+			"name": "devices",
+			"item": [
+				{
+					"name": "getDevices",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "graphql",
+							"graphql": {
+								"query": "query{\r\n  getDevices {\r\n    id\r\n    name\r\n    type\r\n    visible\r\n  }\r\n}",
+								"variables": ""
+							}
+						},
+						"url": {
+							"raw": "{{horusGraphql}}",
+							"host": [
+								"{{horusGraphql}}"
+							]
+						},
+						"description": "Obtiene la lista de todos los dispositivos.\n\n**Tipo de consulta:** Query\n\n**Tipo de retorno:** Lista de objetos Device"
+					},
+					"response": []
+				},
+				{
+					"name": "getDeviceById",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "graphql",
+							"graphql": {
+								"query": "query{\r\n  getDeviceById(id: 1) {\r\n    id\r\n    name\r\n    type\r\n    visible\r\n  }\r\n}",
+								"variables": ""
+							}
+						},
+						"url": {
+							"raw": "{{horusGraphql}}",
+							"host": [
+								"{{horusGraphql}}"
+							]
+						},
+						"description": "Obtiene un dispositivo por su ID.\n\n**Tipo de consulta:** Query\n\n**Parámetros:**\n\n- `id`: ID del dispositivo (requerido)\n    \n\n**Tipo de retorno:** Objeto Device"
+					},
+					"response": []
+				},
+				{
+					"name": "createDevice",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "graphql",
+							"graphql": {
+								"query": "mutation{\r\n  createDevice(projectId: 1, name: \"first device\", type: \"comercial\", visible: true) {\r\n    id\r\n    name\r\n    type\r\n    visible\r\n  }\r\n}",
+								"variables": ""
+							}
+						},
+						"url": {
+							"raw": "{{horusGraphql}}",
+							"host": [
+								"{{horusGraphql}}"
+							]
+						},
+						"description": "Crea un nuevo dispositivo asociado a un proyecto.\n\n**Tipo de consulta:** Mutation\n\n**Parámetros:**\n\n- `name`: Nombre del dispositivo (requerido)\n- `type`: Tipo de dispositivo (requerido)\n- `visible`: Estado de visibilidad del dispositivo (requerido)"
+					},
+					"response": []
+				},
+				{
+					"name": "updateDevice",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "graphql",
+							"graphql": {
+								"query": "mutation{\r\n  updateDevice(id: 1, name: \"first device updated\", type: \"comercial\", visible: true) {\r\n    id\r\n    name\r\n    type \r\n    visible\r\n  }\r\n}",
+								"variables": ""
+							}
+						},
+						"url": {
+							"raw": "{{horusGraphql}}",
+							"host": [
+								"{{horusGraphql}}"
+							]
+						},
+						"description": "Actualiza un dispositivo existente.\n\n**Tipo de consulta:** Mutation\n\n**Parámetros:**\n\n- `id`: ID del dispositivo (requerido)\n    \n- `name`: Nuevo nombre del dispositivo (requerido)\n    \n- `type`: Nuevo tipo de dispositivo (requerido)\n    \n- `visible`: Nuevo estado de visibilidad del dispositivo (requerido)\n    \n\n**Tipo de retorno:** Objeto Device"
+					},
+					"response": []
+				},
+				{
+					"name": "softDeleteDevice",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "graphql",
+							"graphql": {
+								"query": "mutation{\r\n  softDeleteDevice(id: 1) {\r\n    id\r\n    name\r\n    type\r\n    visible\r\n  }\r\n}",
+								"variables": ""
+							}
+						},
+						"url": {
+							"raw": "{{horusGraphql}}",
+							"host": [
+								"{{horusGraphql}}"
+							]
+						},
+						"description": "Desactiva un dispositivo (eliminación suave).  \n**Tipo de consulta:** Mutation\n\n**Parámetros:**\n\n- `id`: ID del dispositivo (requerido)\n    \n\n**Tipo de retorno:** Objeto Device"
+					},
+					"response": []
+				}
+			],
+			"description": "**Descripción:** API GraphQL para gestionar dispositivos asociados a proyectos."
+		}
+	],
+	"variable": [
+		{
+			"key": "horusGraphql",
+			"value": "http://localhost:4000/graphql"
+		}
+	]
+}
