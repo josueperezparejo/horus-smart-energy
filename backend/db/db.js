@@ -3,15 +3,20 @@ import pkg from 'pg';
 
 dotenv.config();
 
+let { PGHOST, PGDATABASE, PGUSER, PGPASSWORD, ENDPOINT_ID } = process.env;
 const { Pool } = pkg;
 
 const dbConfig = {
-    host: process.env.DB_HOST,
-    user: process.env.DB_USER,
-    password: process.env.DB_PASSWORD,
-    database: process.env.DB_NAME,
-    port: process.env.DB_PORT,
-};
+    host: PGHOST,
+    database: PGDATABASE,
+    username: PGUSER,
+    password: PGPASSWORD,
+    port: 5432,
+    ssl: 'require',
+    connection: {
+      options: `project=${ENDPOINT_ID}`,
+    },
+}
 
 const pool = new Pool(dbConfig);
 
