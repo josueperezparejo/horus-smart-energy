@@ -76,7 +76,7 @@ query{
 
 Tipo de retorno: Lista de objetos User
 
-```graphql
+```json
 {
     "data": {
         "getUsers": [
@@ -118,7 +118,7 @@ query{
 
 Tipo de retorno: Objeto User
 
-```graphql
+```json
 {
     "data": {
         "getUserById": {
@@ -151,7 +151,7 @@ mutation{
 
 Tipo de retorno: Objeto User
 
-```graphql
+```json
 {
     "data": {
         "createUser": {
@@ -187,7 +187,7 @@ mutation{
 
 Tipo de retorno: Objeto AuthPayload
 
-```graphql
+```json
 {
     "data": {
         "login": {
@@ -226,7 +226,7 @@ mutation{
 
 Tipo de retorno: Objeto User
 
-```graphql
+```json
 {
     "data": {
         "updateUser": {
@@ -260,7 +260,7 @@ mutation{
 
 Tipo de retorno: Objeto User
 
-```graphql
+```json
 {
     "data": {
         "softDeleteUser": {
@@ -293,7 +293,7 @@ query{
 
 Tipo de retorno: Lista de objetos Project
 
-```graphql
+```json
 {
     "data": {
         "getProjects": [
@@ -340,7 +340,7 @@ query{
 
 Tipo de retorno: Objeto Project
 
-```graphql
+```json
 {
     "data": {
         "getProjectById": {
@@ -381,7 +381,7 @@ mutation{
 
 Tipo de retorno: Objeto Project
 
-```graphql
+```json
 {
     "data": {
         "createProject": {
@@ -423,7 +423,7 @@ mutation{
 
 Tipo de retorno: Objeto Project
 
-```graphql
+```json
 {
     "data": {
         "updateProject": {
@@ -461,7 +461,7 @@ mutation{
 
 Tipo de retorno: Objeto Project
 
-```graphql
+```json
 {
     "data": {
         "softDeleteProject": {
@@ -496,7 +496,7 @@ query{
 
 Tipo de retorno: Lista de objetos Device
 
-```graphql
+```json
 {
     "data": {
         "getDevices": [
@@ -540,7 +540,7 @@ query{
 
 Tipo de retorno: Objeto Device
 
-```graphql
+```json
 {
     "data": {
         "getDeviceById": {
@@ -578,7 +578,7 @@ mutation{
 
 Tipo de retorno: Objeto Device
 
-```graphql
+```json
 {
     "data": {
         "createDevice": {
@@ -617,7 +617,7 @@ mutation{
 
 Tipo de retorno: Objeto Device
 
-```graphql
+```json
 {
     "data": {
         "updateDevice": {
@@ -653,7 +653,7 @@ mutation{
 
 Tipo de retorno: Objeto Device
 
-```graphql
+```json
 {
     "data": {
         "softDeleteDevice": {
