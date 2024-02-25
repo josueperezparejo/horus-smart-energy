@@ -12,11 +12,10 @@ const dbConfig = {
     username: PGUSER,
     password: PGPASSWORD,
     port: 5432,
-    ssl: 'require',
-    connection: {
-      options: `project=${ENDPOINT_ID}`,
+    ssl: {
+      require: true,
     },
-}
+  }
 
 const pool = new Pool(dbConfig);
 
