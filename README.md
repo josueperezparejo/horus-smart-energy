@@ -1,3 +1,10 @@
+# ¡Siéntete libre de probar la API!
+
+La API se encuentra desplegada utilizando los servicios de [Neon](https://neon.tech/) para la base de datos PostgreSQL y [Render](https://render.com/) para alojarla. 
+
+Endpoint GraphQL: [https://horus-smart-energy.onrender.com/graphql](https://horus-smart-energy.onrender.com/graphql)
+
+
 ## Dependencias de Producción
 
 - **apollo-server-express**
